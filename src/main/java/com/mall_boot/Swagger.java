@@ -35,7 +35,7 @@ public class Swagger {
                 //版本号
                 .version("1.0")
                 //描述
-                .description("API描述")
+                .description("API描述 master")
                 .build();
     }
 
